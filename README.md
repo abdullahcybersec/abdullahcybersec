@@ -39,7 +39,7 @@ My goal is to become a **Professional Cybersecurity Analyst & Penetration Tester
 * Metasploit (Basics)
 * Git & GitHub
 * VS Code
-
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullahcybersec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahcybersec) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullah.cybersecbd@gmail.com) 
