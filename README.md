@@ -1,3 +1,44 @@
+# Hi there 👋
+
+## 🔐 Cybersecurity Analyst | Offensive Web Security Specialist
+
+---
+
+### 👨‍💻 About Me
+
+I am a **Cybersecurity-focused Web Professional** from **Bangladesh 🇧🇩**, passionate about **Ethical Hacking, Offensive Web Security, and Secure Web Development**.
+
+I actively practice identifying vulnerabilities, understanding attack vectors, and building secure web applications. My learning journey is fully focused on **Ethical Hacking and Offensive Web Security**, giving me a strong foundation in identifying, exploiting, and mitigating real-world web vulnerabilities.
+
+My goal is to become a **Professional Cybersecurity Analyst & Penetration Tester**, contributing to secure systems and real-world security solutions.
+
+---
+
+### 🚀 What I’m Doing
+
+* 🛡️ Learning **Ethical Hacking & Offensive Web Security**
+* 🌱 Studying **Web Application Security (OWASP Top 10)**
+* 🧪 Practicing **Vulnerability Assessment & Penetration Testing**
+* 👯 Open to **Cybersecurity & Web Security Projects**
+* 💬 Ask me about **Ethical Hacking, Web Security,### 🛠️ Skills
+
+### 🛠️ Skills
+
+#### 🛡️ Ethical Hacking & Cybersecurity
+
+* Web Application Security
+* OWASP Top 10
+* Penetration Testing (Beginner → Intermediate)
+* Vulnerability Assessment
+* Offensive Web Security Concepts
+
+#### 🔧 Tools & Technologies
+
+* Burp Suite
+* Nmap
+* Metasploit (Basics)
+* Git & GitHub
+* VS Code
 
 
 ## 🌐 Socials:
